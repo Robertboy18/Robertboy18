@@ -12,5 +12,5 @@ Freshman at then University of Alberta pursuing Applied Mathematics and Computer
 - 🤔 I’m looking for help with Artificial Intelligence and deep learning.
 - 💬 Ask me about life
 - 📫 How to reach me: [Personal Website](https://www.robertj1.com/)
-- ⚡ Fun fact: I am a huge fan of Reading books, Music, Netflix and Stargazing.
+- ⚡ Fun fact: I am a huge fan of reading books, music, netflix, stargazing as well as problem solving.
 
