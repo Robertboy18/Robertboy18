@@ -4,7 +4,7 @@
 **Robertboy18/Robertboy18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Freshman at then University of Alberta pursuing Applied Mathematics and Computer Science (Double Major).  
+Freshman at the University of Alberta pursuing Applied Mathematics and Computer Science (Double Major).  
 
 - 🔭 I’m currently working on Data Science Projects.
 - 🌱 I’m currently learning Unsupervised Machine Learning Algorithims
