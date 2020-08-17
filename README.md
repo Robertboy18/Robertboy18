@@ -6,8 +6,8 @@
 
 Freshman at the University of Alberta pursuing Honors Applied Mathematics and Computer Science (Double Major).  
 
-- 🔭 I’m currently working on Data Science Projects.
-- 🌱 I’m currently learning Unsupervised Machine Learning Algorithims
+- 🔭 I’m currently working on Reinforcement Learning Projects.
+- 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on Machine Learning and Mathematics.
 - 🤔 I’m looking for help with Artificial Intelligence and deep learning.
 - 💬 Ask me about life
