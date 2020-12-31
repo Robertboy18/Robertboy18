@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am a huge fan of reading books, music, netflix, stargazing as well as problem solving.**
 
-### Blogs posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
