@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Robert Joseph</h1>
-<h3 align="center">Incoming SWE Intern in the Cloud + Artificial Intelligence Department at Microsoft. Teaching + Research Assistant at the University of Alberta.</h3>
+<h1 align="center">Heyo 👋, I'm Robert Joseph</h1>
+<h4 align="center">Incoming SWE Intern in the Cloud + Artificial Intelligence Department at Microsoft. Teaching + Research Assistant at the University of Alberta.</h3>
 
 - 🔭 I’m currently working on **BlinkEyeDetection**
 
