@@ -20,9 +20,9 @@
 <a href="https://kaggle.com/robertjoseph2001" target="blank"><img align="center" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1487254066/fdtorqyze7ziyevrwg9q.png" alt="robertjoseph2001" height="35" width="40" /></a>
 <a href="https://fb.com/robertj2001" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" height="35" width="40" /></a>
 <a href="https://instagram.com/roberttj.1" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="roberttj.1" height="35" width="40" /></a>
-<a href="https://www.hackerrank.com/robert_boy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="robert_boy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/robujsph2001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="robujsph2001" height="40" width="40" /></a>
+<a href="https://twitter.com/RobertJ62431533" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="RobertJ62431533" height="35" width="40" /></a>
 <a href="https://discord.gg/Lostboy#2048" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" alt="Lostboy#2048" height="35" width="40" /></a>
+<a href="https://steamcommunity.com/profiles/76561198995796051" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/3/3782.svg" height="35" width="40" /></a>
 
 </p>
 
