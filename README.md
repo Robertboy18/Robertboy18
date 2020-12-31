@@ -9,14 +9,6 @@
 
 - 🤝 I’m looking for help with **Facial Recognition**
 
-- 👨‍💻 All of my projects are available at [https://www.robertj1.com/projects/](https://www.robertj1.com/projects/)
-
-- 📝 I regularly write articles on [https://www.robertj1.com/](https://www.robertj1.com/)
-
-- 📫 How to reach me **robujsph2001@gmail.com**
-
-- 📄 Know about my experiences [https://www.robertj1.com/resume/](https://www.robertj1.com/resume/)
-
 - ⚡ Fun fact **I am a huge fan of reading books, music, netflix, stargazing as well as problem solving.**
 
 ### Blogs posts
@@ -29,6 +21,7 @@
 <a href="https://kaggle.com/robertjoseph2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="robertjoseph2001" height="30" width="40" /></a>
 <a href="https://fb.com/robertj2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="robertj2001" height="30" width="40" /></a>
 <a href="https://instagram.com/roberttj.1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="roberttj.1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/robert_boy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="robert_boy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/robujsph2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="robujsph2001" height="30" width="40" /></a>
 <a href="https://discord.gg/Lostboy#2048" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Lostboy#2048" height="30" width="40" /></a>
 <a href="/https://www.robertj1.com/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.robertj1.com/feed.xml" height="30" width="40" /></a>
@@ -41,3 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertboy18&show_icons=true&locale=en" alt="robertboy18" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertboy18&" alt="robertboy18" /></p>
