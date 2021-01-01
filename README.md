@@ -34,7 +34,7 @@
 <a href="https://cloud.ibm.com/" target="_blank"> <img src="https://i.pinimg.com/originals/b0/b1/8b/b0b18bd010c5851b5f82d0a98bfde369.png" alt="ibm cloud" width="40" height="40"/> 
 <a href="https://www.latex-project.org/" target="_blank"> <img src="https://i.ibb.co/5T3r3QH/latex-2.png" alt="latex" width="40" height="40"/>  </a> 
 <a href="https://www.sagemath.org/" target="_blank"> <img src="https://cdn6.aptoide.com/imgs/5/7/3/573dc12a92de4cedf8e155d1eb6ffc08_icon.png" alt="sagemath" width="40" height="40"/>  </a> 
-
+<a href="https://www.office.com/" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/888/888867.svg" alt="office" width="40" height="40"/>  </a> 
   </p>
 
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertboy18&show_icons=true&locale=en" alt="robertboy18" /></p>
