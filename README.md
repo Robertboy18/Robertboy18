@@ -22,7 +22,7 @@
 <a href="https://instagram.com/roberttj.1" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="roberttj.1" height="35" width="40" /></a>
 <a href="https://twitter.com/RobertJ62431533" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="RobertJ62431533" height="35" width="40" /></a>
 <a href="https://discord.gg/Lostboy#2048" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" alt="Lostboy#2048" height="35" width="40" /></a>
-<a href="https://steamcommunity.com/profiles/76561198995796051" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/3/3782.svg" height="35" width="40" /></a>
+<a href="https://my.playstation.com/profile/aestheticboyy18" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/336/336209.svg" height="35" width="40" /></a>
 
 </p>
 
