@@ -1,8 +1,7 @@
 <h1 align="center">Heyo 👋, I'm Robert Joseph</h1>
 <h4 align="center">Incoming SWE Intern in the Cloud + Artificial Intelligence Department at Microsoft. Teaching + Research Assistant at the University of Alberta.</h3>
 
-- 🔭 I’m currently working on **BlinkEyeDetection**
-
+- 🔭 I’m currently working on **BlinkEyeDetection** <img align="right" src="https://github-readme-stats.vercel.app/api?username=robertboy18&show_icons=true&locale=en" alt="robertboy18" height = "100" width = "300"/></p>
 - 🌱 I’m currently learning **Pytorch, Tensorflow2.0**
 
 - 👯 I’m looking to collaborate on **Deep Learning**
@@ -39,4 +38,3 @@
 <a href="https://www.office.com/" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/888/888867.svg" alt="office" width="40" height="40"/>  </a> 
   </p>
 
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertboy18&show_icons=true&locale=en" alt="robertboy18" /></p>
