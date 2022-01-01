@@ -1,13 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertboy18&label=Views&color=000000&style=flat-square" alt="robertboy18" /> </p>
 <h4align="center">Hey ! Former Data Science Intern in the Cloud&Artificial Intelligence Department @Microsoft. Teaching/Research Assistant @UAlberta
 
-- 🔭 I’m currently working on **Algorithms**
+- 🔭 I’m currently working/looking to colaborate on **Algorithms**
 
-- 🌱 I’m currently learning **Graph Algorithms**
-
-- 👯 I’m looking to collaborate on **Deep Learning**
-
-- 🤝 I’m looking for help with **Google Cloud Platform**
+- 🤝 I’m looking for help with **Approximation Algorithms**
 
 - 💬 Ask me about **Research in Industry vs Academia, Life, Math/CS Problems**
 
