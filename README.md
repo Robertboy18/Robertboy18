@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertboy18&label=Views&color=000000&style=flat-square" alt="robertboy18" /> </p>
-<h4align="center">Hey Everyone! Former Data Science Intern in the Cloud&Artificial Intelligence Team @Microsoft. Teaching/Research Assistant @UAlberta
+<h4align="center">Hey Everyone! Research Assistant @UAlberta/@RLAI/@AMII. Former Data Science Intern in the Cloud&Artificial Intelligence Team @Microsoft
 
 - 🔭 I’m currently working/looking to colaborate on **Algorithms**
 
-- 🤝 I’m looking for help with **Approximation Algorithms**
+- 🤝 I’m looking for help with **Reinforcement Learning**
 
 - 💬 Ask me about **Research in Industry vs Academia, Life, Math/CS Problems**
 
