@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertboy18&label=Views&color=000000&style=flat-square" alt="robertboy18" /> </p>
 <h4align="center">Hey Everyone! Research Intern @UAlberta/@RLAI/@Amii. Former Data Science Intern in Azure @Microsoft
 
-- 🔭 I’m currently working/looking to colaborate on **Algorithms**
+- 🔭 I’m currently working/looking to colaborate on **Computational Learning Theory**
 
 - 🤝 I’m looking for help with **Reinforcement Learning**
 
