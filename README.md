@@ -17,5 +17,3 @@
 <a href="https://cloud.ibm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/2529329/47639358-7062af80-db37-11e8-8679-42b233b424fa.jpg" alt="ibm cloud" width="40" height="40"/>
 <a href="https://linkedin.com/in/robert-joseph-2001" target="blank">
   </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertboy18&show_icons=true&theme=dark&hide_border=true&locale=en" alt="robertboy18" width="9000" height="150"></p>
