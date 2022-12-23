@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertboy18&label=Views&color=000000&style=flat-square" alt="robertboy18" /> </p>
 <h4align="center">Hey Everyone! Research Intern <a href="https://cms.caltech.edu/academics/grad_cms">@Caltech</a> /<a href="http://rlai.ualberta.ca/">@RLAI</a>/<a href = "https://www.amii.ca/">@Amii</a>. <!--Current CSRMP Scholar <a href = "https://www.google.com/en-ca/">@Google</a> and former Data Science Intern <a href = "https://www.microsoft.com/en-ca/">@Microsoft</a>-->
 
-- 🔭 I’m currently working/looking to colaborate on **Computational Learning Theory**
+- 🔭 I’m currently working/looking to colaborate on **Foundations of Deep Learning**
 
-- 🤝 I’m looking for help with **Reinforcement Learning**
+- 🤝 I’m looking for help with **Neural Operators**
 
 - 💬 Ask me about **Research in Industry vs Academia, Life, Math/CS Problems**
 
